@@ -45,11 +45,6 @@ The app does not specify a minimum RAM or graphics card. Resource needs depend o
 
 No Node.js, npm, or separate web-server setup is required to install or use the Windows app.
 
----
-## Windows SmartScreen
-
-The installer is not digitally signed, so Windows may show “Windows protected your PC” or identify the publisher as unknown. This means Windows cannot verify the publisher's identity; it is not, by itself, a malware verdict or a guarantee that the file is safe. Only continue if you downloaded the installer from the official release page above and trust the source. Otherwise, choose Don't run.
-
 
 ---
 ## Getting Started and Recommended Features
