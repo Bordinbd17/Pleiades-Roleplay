@@ -89,7 +89,7 @@ You can adjust the subtitle settings. When Generate speech every turn is enabled
 ---
 ## Demo
 
-[![Watch the Pleiades Roleplay demo](https://img.youtube.com/vi/iGSPNjVjKT4/hqdefault.jpg)](https://www.youtube.com/watch?v=iGSPNjVjKT4)
+https://github.com/user-attachments/assets/aa751660-da71-461f-b586-2b99482d1adb
 
 ---
 ## Providers and Costs
